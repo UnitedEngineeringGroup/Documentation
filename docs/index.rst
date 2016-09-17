@@ -10,6 +10,11 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: About us
+
+   about
+   ueg_organisation
+   founders
 
 
 
