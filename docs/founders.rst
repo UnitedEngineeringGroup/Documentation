@@ -18,7 +18,7 @@ Job:   Software developer
 Mr.Faul
 -------
 
-..image:: assets/images/mrFaul.png
+.. image:: assets/images/mrFaul.png
 
 Name:  MrFaul
 
